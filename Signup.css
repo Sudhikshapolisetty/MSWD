@@ -1,0 +1,21 @@
+ .card{
+    position: "middle";
+    width: "400px";
+    border:'1px solid black';
+    margin:'auto';
+    box-shadow:'2px 1px 3px 3px black';
+    color:'black';
+    font-size:'Tw Cen Mt';
+    font-size:16;
+  }
+.ts{
+    margin-top:'100px';
+    position:'middle';
+    color:"red";
+  }
+
+.background{
+  background-color:black;
+  flex: auto;
+}
+  

@@ -1,0 +1,8 @@
+.About{
+    background-color: black;
+    flex: auto;
+    min-height: 100vh;
+}
+.colour{
+    color: aliceblue;
+}
